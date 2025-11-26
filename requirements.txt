@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.1
+pydantic-core==2.16.2
+python-multipart==0.0.9
+mediapipe==0.10.9
+opencv-python==4.9.0.80
+numpy==1.26.4
+sqlalchemy==2.0.25
+pillow==10.2.0
+starlette==0.36.3
+requests==2.31.0
+typing-extensions==4.9.0
+click==8.1.7
+protobuf==3.20.3
+setuptools==69.1.0
+packaging==23.2
